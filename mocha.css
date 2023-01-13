@@ -81,11 +81,14 @@ body {
 .dropdown-menu {
     background-color: #6c7086 !important;
     border-color: #6c7086 !important;
-    color: #cdd6f4 !important;
 }
 
 .dropdown-divider {
     border-top: 1px solid #7f849c !important;
+}
+
+.dropdown-item {
+    color: #cdd6f4 !important;
 }
 
 .dropdown-item:hover, .dropdown-item:focus {
