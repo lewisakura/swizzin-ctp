@@ -1,0 +1,79 @@
+:root {
+    --success: #a6e3a1;
+    --danger: #f38ba8;
+}
+
+body {
+    background-color: #1e1e2e !important;
+    color: #cdd6f4 !important;
+}
+
+.list-group-item-action {
+    color: #cdd6f4 !important;
+}
+
+.btn-primary {
+    background-color: #313244 !important;
+    border-color: #313244 !important;
+    color: #cdd6f4 !important;
+}
+
+.btn-secondary {
+    background-color: #45475a !important;
+    border-color: #45475a !important;
+    color: #cdd6f4 !important;
+}
+
+.bg-dark {
+    background-color: #181825 !important;
+}
+
+.bg-success {
+    background-color: #a6e3a1 !important;
+}
+
+.btn-outline-success {
+    color: #a6e3a1 !important;
+    border-color: #a6e3a1 !important;
+}
+
+.bg-danger {
+    background-color: #f38ba8 !important;
+}
+
+.btn-outline-danger {
+    color: #f38ba8 !important;
+    border-color: #f38ba8 !important;
+}
+
+.card-header {
+    background-color: #45475a !important;
+}
+
+.card-body, .table-dark {
+    background-color: #313244 !important;
+}
+
+.table-dark {
+    color: #cdd6f4 !important;
+}
+
+.text-info {
+    color: #89b4fa !important;
+}
+
+.text-success {
+    color: #a6e3a1 !important;
+}
+
+.nav-link {
+    color: #bac2de !important;
+}
+
+.active > .nav-link {
+    color: #cdd6f4 !important;
+}
+
+.progress {
+    background-color: #45475a !important;
+}
